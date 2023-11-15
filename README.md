@@ -13,7 +13,7 @@ A primeira página a ser aberta pelo usuário é a que contém a tela de login, 
 <div align="center">
     <img src="stxrkwas/Cookies/Tela-de-Login-com-Cookies.gif" alt="Demonstração" width="350">
 </div>
-[!([Tela de Login com Cookies.mp4](https://github.com/stxrkwas/Cookies/blob/5dfc3741be63438080375e31fbd1fae930f3bbbd/Tela%20de%20Login%20com%20Cookies.mp4))]
+<!--[!([Tela de Login com Cookies.mp4](https://github.com/stxrkwas/Cookies/blob/5dfc3741be63438080375e31fbd1fae930f3bbbd/Tela%20de%20Login%20com%20Cookies.mp4))]-->
 <!--<div align="center">
         <video width="640" height="360" controls>
                 Inclua a URL do seu vídeo no atributo src 
