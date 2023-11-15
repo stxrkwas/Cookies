@@ -10,5 +10,5 @@ A primeira página a ser aberta pelo usuário é a que contém a tela de login, 
 
 ## Demonstração
 <div align="center">
-    <img src="https://github.com/stxrkwas/Cookies/blob/d85d8b2947af06be694d16f7dd11d899f99b2af5/Tela-de-Login-com-Cookies.gif" alt="Demonstração" width="1280" height="600">
+    <img src="https://github.com/stxrkwas/Cookies/blob/d85d8b2947af06be694d16f7dd11d899f99b2af5/Tela-de-Login-com-Cookies.gif" alt="Demonstração" width="1280" height="580">
 </div>
