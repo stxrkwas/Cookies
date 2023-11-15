@@ -15,7 +15,7 @@
     <!-- Incluindo o script JavaScript do Bootstrap -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
 
-    <!-- Primeira linha -->
+    <!-- Primeira linha: espaçamento superior -->
     <div class="container text-center">
         <div class="row">
             <div class="col">
@@ -45,24 +45,33 @@
 
                         <?php
 
-                        // Verifica se os cookies 'email' e 'senha' estão definidos
-                        if (isset($_COOKIE['email'])) {
-                            $cookie_email = $_COOKIE['email'];
-                            echo "<b>E-mail:</b> $cookie_email<br>";
+                            // Verifica se os cookies 'email' e 'senha' estão definidos
+                            if (isset($_COOKIE['email'])) {
+                                
+                                // Obtém e exibe o valor do cookie 'email'
+                                $cookie_email = $_COOKIE['email'];
+                                echo "<b>E-mail:</b> $cookie_email<br>";
 
-                            if (isset($_COOKIE['senha'])) {
-                                $cookie_password = $_COOKIE['senha'];
-                                echo "<b>Senha:</b> $cookie_password";
-                            } else {
-                                echo "Senha não disponível";
-                            }
-                        } 
+                                // Verifica se o cookie 'senha' está definido
+                                if (isset($_COOKIE['senha'])) {
+                                    
+                                    // Obtém e exibe o valor do cookie 'senha'
+                                    $cookie_password = $_COOKIE['senha'];
+                                    echo "<b>Senha:</b> $cookie_password";
+                                } 
+                            
+                                else {
+                                    echo "Senha não disponível";
+                                }
+                            }   
                         
-                        else {
-                            echo "Cookies não encontrados.";
-                        }
-                        ?>
+                            else {
+                                echo "Cookies não encontrados.";
+                            }
 
+                        ?>
+                        
+                        <!-- Botão de voltar para a página de login -->
                         <br><br><a href="login.php" class="btn btn-primary">Voltar</a><br>
                     </div>
                 </div>
@@ -73,7 +82,7 @@
         </div>
     </div>
 
-    <!-- Terceira linha -->
+    <!-- Terceira linha: espaçamento inferior -->
     <div class="container text-center">
         <div class="row">
             <div class="col">
