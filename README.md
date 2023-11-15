@@ -10,7 +10,9 @@ A primeira página a ser aberta pelo usuário é a que contém a tela de login, 
 
 ## Demonstração
 
-<video width="640" height="360" controls>
-        <!-- Inclua a URL do seu vídeo no atributo src -->
-        <source src="Tela de Login com Cookies.mp4" type="video/mp4">
-</video>
+<div align="center">
+        <video width="640" height="360" controls>
+                <!-- Inclua a URL do seu vídeo no atributo src -->
+                <source src="Tela de Login com Cookies.mp4" type="video/mp4">
+        </video>
+</div>
