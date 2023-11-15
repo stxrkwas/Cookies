@@ -11,7 +11,7 @@ A primeira página a ser aberta pelo usuário é a que contém a tela de login, 
 ## Demonstração
 
 <div align="center">
-    <img src="[stxrkwas/Cookies/Tela-de-Login-com-Cookies.gif](https://github.com/stxrkwas/Cookies/blob/d85d8b2947af06be694d16f7dd11d899f99b2af5/Tela-de-Login-com-Cookies.gif)" alt="Demonstração" width="350">
+    <img src="https://github.com/stxrkwas/Cookies/blob/d85d8b2947af06be694d16f7dd11d899f99b2af5/Tela-de-Login-com-Cookies.gif" alt="Demonstração" width="350">
 </div>
 <!--[!([Tela de Login com Cookies.mp4](https://github.com/stxrkwas/Cookies/blob/5dfc3741be63438080375e31fbd1fae930f3bbbd/Tela%20de%20Login%20com%20Cookies.mp4))]-->
 <!--<div align="center">
